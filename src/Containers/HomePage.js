@@ -62,7 +62,7 @@ export default function HomePage(props) {
           </div>
         </div>
       </div>
-      <div className="bg-blue-dark">
+      <div>
         <div className="max-w-7xl mx-auto sm:px-6 lg:px-14 pt-12">
           <div className="flex items-center space-x-6">
             <h1 className="text-white font-Noe font-bold text-3xl md:text-5xl lg:text-6xl">Pick your trip</h1>
